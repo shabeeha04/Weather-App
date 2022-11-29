@@ -1,0 +1,18 @@
+body{
+  background-image: url('../public/assets/background.jpg');
+
+  height:900px;
+ 
+}
+.container{
+  display: flex;
+}
+.secondcontainer{
+  margin-left: 50px;
+  display: flex;
+}
+.error{
+  margin-left: 200px;
+  font-size: 40px;
+  color:red;
+}

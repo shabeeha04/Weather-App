@@ -1,0 +1,59 @@
+.daycontainer{
+ width:900px;
+height:400px;
+margin-top: 40px;
+margin-left: 200px;
+background-color: rgb(200, 187, 212);
+border-radius: 20px;
+/* margin-left: 640px;
+ margin-top: -301px;
+     */
+}
+.seriescontainer{
+  
+}
+.firstwheather{
+/* border-right:1px solid rgb(116, 113, 113); */
+/* border-left:1px solid rgb(116, 113, 113); */
+width:175px;
+height:300px;
+margin-top: 40px;
+margin-left: 50px;
+background-color: rgb(199, 200, 202);
+border-radius: 5px;
+box-shadow: 5px 10px 8px #888888;
+}
+
+
+
+
+/* .fifthwheather{
+    border:2px solid black;
+    width:175px;
+    height:395px;  
+} */
+.text{
+    margin-left: 50px;
+    font-size: 30px;
+    color: rgb(223, 108, 108);
+}
+.icons{
+    margin-left: 60px;
+}
+.textwheather{
+    margin-left: 37px;
+}
+.textseason{
+    font-size: 20px;
+    margin-left: 56px;
+}
+.textstrength{
+    margin-left: 50px;  
+}
+.endwheather{
+    border-right:1px solid black;
+    /* margin-left: -20px; */
+}
+.iconimg{
+    margin-left: 50px;
+}

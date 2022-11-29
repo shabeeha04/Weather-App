@@ -1,0 +1,38 @@
+.celsiuscontainer{
+    width:600px;
+    height:300px;
+    background-color: rgb(200, 187, 212);
+    margin-left: 640px;
+    margin-top: -301px;
+    border-radius: 20px;
+    /* border:2px solid black; */
+}
+.img{
+    width:100px;
+    height: 40px;
+    /* background-image: url('.assets/wheather.png'); */
+    display: flex;
+    margin-left: 200px;
+ 
+}
+.wheathericons{
+    margin-left: -90px;
+    margin-top: 10px;
+}
+.tempt{
+    margin-left: -43px;
+    margin-top: 24px;
+}
+.tempt1{
+    margin-left: -78px;
+    margin-top: 72px;
+}
+.celsius{
+    font-size: 40px;
+    margin-top: 76px;
+    margin-left: 105px;
+}
+.main{
+    margin-left: 100px;
+    font-size: 30px;
+}
